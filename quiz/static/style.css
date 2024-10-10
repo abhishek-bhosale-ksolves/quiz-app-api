@@ -1,0 +1,12 @@
+h1,a {
+    font-size: 50px;
+    color: orange;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: darkblue;
+    font-size: 20px;
+    text-decoration: none;
+}
